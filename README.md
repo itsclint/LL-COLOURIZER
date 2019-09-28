@@ -1,6 +1,8 @@
 # LL-COLOURIZER
 this is a machine learning algorithm that uses low level computer vision techniques to process images.
-SKIN DETECTION 
+
+
+# SKIN DETECTION 
 Skin detection is the process of finding skin-colored pixels and regions in an
 image or a video
 Human Skin
